@@ -29,7 +29,7 @@ DB_PASSWORD=aden
 
 - Run `bima run`
 
-## Debuggin Application
+## Debugging Application
 
 - Set break point from your IDE
 
